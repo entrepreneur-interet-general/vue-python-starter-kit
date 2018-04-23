@@ -1,15 +1,15 @@
-# front, back, devops with Docker
+# fullstack starter kit, using Docker for devOps
 
-This is a starter kit for developping both front and back with docker.
+Starter kit for developping both frontend and backend with **docker**.
 
 The aim of this repo is to help devlopping being at-first implied in a devops chain : the sooner you start in a machine-as-a code env, the faster your app will deploy.
 
 Some stack has to be choosen here, even the components may be changed:
-- proxy : nginx - could be Apache as well
-- frontend : Vue.js - could be any npm framework
-- backend : Python + FlaskRestPlus - could by any api framework
+- proxy : **nginx** - could be Apache as well
+- frontend : **Vue.js** - could be any npm framework
+- backend : **Python + FlaskRestPlus** - could by any api framework
 
-This starter kit is making something quite neutral: a drag & drop file system like a Dropbox. 
+This starter kit is making something quite neutral: a drag & drop file system like _Dropbox_. 
 It should take few minutes to modify it to fit your own project.
 
 # Install
